@@ -1,0 +1,15 @@
+C:\Users\rafa_\RiderProjects\CaseTec\bin\Debug\net9.0\DesafioTecnico.exe
+C:\Users\rafa_\RiderProjects\CaseTec\bin\Debug\net9.0\DesafioTecnico.deps.json
+C:\Users\rafa_\RiderProjects\CaseTec\bin\Debug\net9.0\DesafioTecnico.runtimeconfig.json
+C:\Users\rafa_\RiderProjects\CaseTec\bin\Debug\net9.0\DesafioTecnico.dll
+C:\Users\rafa_\RiderProjects\CaseTec\bin\Debug\net9.0\DesafioTecnico.pdb
+C:\Users\rafa_\RiderProjects\CaseTec\obj\Debug\net9.0\DesafioTecnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafa_\RiderProjects\CaseTec\obj\Debug\net9.0\DesafioTecnico.AssemblyInfoInputs.cache
+C:\Users\rafa_\RiderProjects\CaseTec\obj\Debug\net9.0\DesafioTecnico.AssemblyInfo.cs
+C:\Users\rafa_\RiderProjects\CaseTec\obj\Debug\net9.0\DesafioTecnico.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\RiderProjects\CaseTec\obj\Debug\net9.0\DesafioTecnico.sourcelink.json
+C:\Users\rafa_\RiderProjects\CaseTec\obj\Debug\net9.0\DesafioTecnico.dll
+C:\Users\rafa_\RiderProjects\CaseTec\obj\Debug\net9.0\refint\DesafioTecnico.dll
+C:\Users\rafa_\RiderProjects\CaseTec\obj\Debug\net9.0\DesafioTecnico.pdb
+C:\Users\rafa_\RiderProjects\CaseTec\obj\Debug\net9.0\DesafioTecnico.genruntimeconfig.cache
+C:\Users\rafa_\RiderProjects\CaseTec\obj\Debug\net9.0\ref\DesafioTecnico.dll
