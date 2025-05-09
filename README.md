@@ -6,7 +6,7 @@ Este projeto contém soluções para cinco questões técnicas em C#. Cada quest
 ## Como rodar
 
 1. Tenha o [.NET SDK](https://dotnet.microsoft.com/en-us/download) instalado
-2. Clone este repositório
+2. Clone este repositório : ```git clone https://github.com/rfcavalcant/CaseTec.git```
 3. Navegue até a pasta do projeto
 4. Execute:
 
